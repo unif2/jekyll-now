@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[velocci@utexas.edu](mailto:velocci@utexas.edu)
+[Vince Velocci](mailto:velocci@utexas.edu)
