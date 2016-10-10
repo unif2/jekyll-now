@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Benson
+title: Analyzing MTA Turnstile Data
 ---
 
 This was the very first project at the Metis Data Science Bootcamp.  The purpose of the project was to analyze MTA turnstile 
